@@ -1,2 +1,3 @@
 # Projet-S2-jeu-d-chec
-jeu d'échec en langage JAVA
+Projet réalisé par binôme,  
+ jeu d'échec en langage JAVA
